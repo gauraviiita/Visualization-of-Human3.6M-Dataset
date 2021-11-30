@@ -35,12 +35,12 @@ In data folder it has only subject 5 due to space constraint.
 
 ## To download full dataset follow this
 
-mkdir data
-cd data
+```bash
 wget http://www.cs.stanford.edu/people/ashesh/h3.6m.zip
-unzip h3.6m.zip
-rm h3.6m.zip
-cd ..
+
+```
+
+
 
 ### Acknowledgments
 
