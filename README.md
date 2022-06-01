@@ -29,7 +29,7 @@ This should create a visualization similar to this one
 
 
 <p align="center">
-  <img src="imgs/walking.gif"><br><br>
+  <img src="https://github.com/gauraviiita/Visualization-of-Human3.6M-Dataset/blob/main/figs/walking.gif"><br><br>
 </p>
 
 
