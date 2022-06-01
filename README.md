@@ -26,6 +26,13 @@ python forward_kinematics.py
 
 This should create a visualization similar to this one
 
+
+
+<p align="center">
+  <img src="imgs/walking.gif"><br><br>
+</p>
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/una-dinosauria/human-motion-prediction/master/imgs/walking.gif"><br><br>
 </p>
