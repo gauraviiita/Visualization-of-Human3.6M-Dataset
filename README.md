@@ -15,7 +15,7 @@ python forward_kinematics.py --save --save_name "figs/walking.gif"
 
 To save visualization for trained modeld sample.h5, run
 ```bash
- python forward_kinematics.py --sample_name samples.h5 --save --save_name "figs/walking_py_0.gif"
+ python forward_kinematics.py --sample_name samples.h5 --save --save_name "figs/walking.gif"
 ```
 
 Finally, to visualize the samples run
