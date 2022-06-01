@@ -24,7 +24,7 @@ python forward_kinematics.py
 ```
 
 
-This should create a visualization similar to this one
+This is the sample of walking. I am saving it from text data.
 
 
 
@@ -32,6 +32,12 @@ This should create a visualization similar to this one
   <img src="https://github.com/gauraviiita/Visualization-of-Human3.6M-Dataset/blob/main/figs/walking.gif"><br><br>
 </p>
 
+
+This example of discussion activities of the human3.6m dataset. So our code give you the way to create ground truth gif from the text form of data. 
+
+```bash
+python create_video_gt.py --save --save_name "images/H3.6M/gt/S5/discussion.gif"
+```
 
 <p align="center">
   <img src="https://github.com/gauraviiita/Visualization-of-Human3.6M-Dataset/blob/main/figs/discussion.gif"><br><br>
